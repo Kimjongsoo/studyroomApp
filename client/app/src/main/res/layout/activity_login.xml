@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="org.techtown.orderapp.MainActivity">
+    tools:context="org.techtown.orderapp.LoginActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -14,7 +14,6 @@
         android:layout_marginLeft="135dp"
         android:layout_marginTop="60dp"
         android:background="@drawable/academy"
-        android:src="@drawable/food"
         tools:layout_editor_absoluteX="115dp"
         tools:layout_editor_absoluteY="82dp" />
 
